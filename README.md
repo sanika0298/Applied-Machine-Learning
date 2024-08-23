@@ -1,7 +1,10 @@
 # Applied-Machine-Learning
 Contains projects for Exploratory Data Analysis, different cross validation strategies, classification models, and regression models.
 
-1. Comparison_of_Cross_Validation_methods:
+1. Movie Recommendation System using Pandas:
+Developed a basic movie recommendation system using Pandas DataFrame. Utilized the MovieLens dataset, focusing on ratings.csv and movies.csv files. Implemented data preprocessing steps, including data cleaning and merging, to create a user-movie interaction matrix. Leveraged simple filtering techniques to recommend movies based on user ratings.
+
+2. Comparison_of_Cross_Validation_methods:
 Using iris data set and KNN classification, analyzed prediction accuracies for different cross validation methods: K-fold, Stratified K-fold, and Stratified shuffle split.
 Hyperparameter tuning using GridSearch.
 
